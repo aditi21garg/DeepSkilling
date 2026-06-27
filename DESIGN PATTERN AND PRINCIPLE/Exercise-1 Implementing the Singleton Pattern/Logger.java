@@ -13,3 +13,4 @@ class Logger {
         return instance;
     }
 }
+//final
