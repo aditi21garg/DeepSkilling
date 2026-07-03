@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week2/SpringCoreAndMaven/Exercise1-Configuring-a-Basic-Spring-Application/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/SpringCoreAndMaven/Exercise2-Implementing-Dependency-Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/SpringCoreAndMaven/Exercise4-Creating-and-Configuring-a-Maven-Project/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/SpringCoreAndMaven/Exercise1-Configuring-a-Basic-Spring-Application/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/SpringCoreAndMaven/Exercise2-Implementing-Dependency-Injection/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/Week2/SpringCoreAndMaven/Exercise4-Creating-and-Configuring-a-Maven-Project/LibraryManagement/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
