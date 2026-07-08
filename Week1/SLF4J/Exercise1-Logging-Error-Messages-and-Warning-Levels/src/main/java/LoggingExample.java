@@ -9,3 +9,4 @@ public class LoggingExample {
         logger.warn("This is a warning message");
     }
 }
+
