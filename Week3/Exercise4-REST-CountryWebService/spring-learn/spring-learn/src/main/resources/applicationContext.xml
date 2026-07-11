@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="country" class="com.cognizant.spring_core_xml.model.Country">
+    <bean id="india" class="com.cognizant.spring_learn.model.Country">
         <property name="code" value="IN"/>
         <property name="name" value="India"/>
     </bean>
